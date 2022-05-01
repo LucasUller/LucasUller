@@ -39,7 +39,7 @@ object **Lucas** {
 </a>
 
 <br/>
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Contact: </h3> 
 
 [![Linkedin:Lucas Uller](https://img.shields.io/badge/-LucasUller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-uller-1a81226b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BY7lY%2BgFsTjmtPFV19V6lKg%3D%3D)](https://www.linkedin.com/in/lucas-uller-1a81226b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BY7lY%2BgFsTjmtPFV19V6lKg%3D%3D)
 [![Gmail Badge](https://img.shields.io/badge/-lucasuller@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasuller@hotmail.com)](mailto:lucasuller@hotmail.com)
